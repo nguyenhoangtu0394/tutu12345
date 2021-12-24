@@ -1,9 +1,7 @@
 {
     "host": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/host.android.bundle.zip",
-        "componentName": "mypage",
-        "fileName": "host.android.bundle.zip",
-        "version": "1.0.2"
+        "version": "1.0.0"
     },
     "Claim": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/Claim.android.bundle.zip",
