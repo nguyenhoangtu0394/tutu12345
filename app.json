@@ -3,12 +3,12 @@
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/host.android.bundle.zip",
         "version": "1.0.0"
     },
-    "Claim": {
-        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/Claim.android.bundle.zip",
+    "claim": {
+        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/claim.android.bundle.zip",
         "version": "1.0.0"
     },
-    "PolicyServing": {
-        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/PolicyServing.android.bundle.zip",
+    "policyServing": {
+        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/policyServing.android.bundle.zip",
         "version": "1.0.0"
     }
 }
