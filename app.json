@@ -7,11 +7,11 @@
     "claim": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/claim.android.bundle.zip",
         "componentName": "claim",
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     "policyServing": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/policyServing.android.bundle.zip",
         "componentName": "policyServing",
-        "version": "1.0.3"
+        "version": "1.0.4"
     }
 }
