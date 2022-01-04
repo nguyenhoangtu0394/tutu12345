@@ -2,16 +2,16 @@
     "host": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/host.android.bundle.zip",
         "componentName": "mypage",
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "claim": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/claim.android.bundle.zip",
         "componentName": "claim",
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     "policyServing": {
         "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/policyServing.android.bundle.zip",
         "componentName": "policyServing",
-        "version": "1.0.4"
+        "version": "1.0.5"
     }
 }
