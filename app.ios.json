@@ -1,0 +1,17 @@
+{
+    "host": {
+        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/host.ios.bundle.zip",
+        "componentName": "mypage",
+        "version": "1.0.0"
+    },
+    "claim": {
+        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/claim.ios.bundle.zip",
+        "componentName": "claim",
+        "version": "1.0.0"
+    },
+    "policyServing": {
+        "sourceUrl": "https://github.com/nguyenhoangtu0394/tutu12345/raw/main/policyServing.ios.bundle.zip",
+        "componentName": "policyServing",
+        "version": "1.0.0"
+    }
+}
